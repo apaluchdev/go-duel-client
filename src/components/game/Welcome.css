@@ -1,0 +1,10 @@
+.Welcome > h1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 4rem;
+}
+
+.Welcome > button {
+    max-width: 200px;
+}
